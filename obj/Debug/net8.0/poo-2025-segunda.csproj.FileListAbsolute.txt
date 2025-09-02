@@ -1,0 +1,15 @@
+/workspaces/poo-2025-segunda/obj/Debug/net8.0/poo-2025-segunda.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/poo-2025-segunda/obj/Debug/net8.0/poo-2025-segunda.AssemblyInfoInputs.cache
+/workspaces/poo-2025-segunda/obj/Debug/net8.0/poo-2025-segunda.AssemblyInfo.cs
+/workspaces/poo-2025-segunda/obj/Debug/net8.0/poo-2025-segunda.csproj.CoreCompileInputs.cache
+/workspaces/poo-2025-segunda/obj/Debug/net8.0/poo-2025-segunda.sourcelink.json
+/workspaces/poo-2025-segunda/bin/Debug/net8.0/poo-2025-segunda
+/workspaces/poo-2025-segunda/bin/Debug/net8.0/poo-2025-segunda.deps.json
+/workspaces/poo-2025-segunda/bin/Debug/net8.0/poo-2025-segunda.runtimeconfig.json
+/workspaces/poo-2025-segunda/bin/Debug/net8.0/poo-2025-segunda.dll
+/workspaces/poo-2025-segunda/bin/Debug/net8.0/poo-2025-segunda.pdb
+/workspaces/poo-2025-segunda/obj/Debug/net8.0/poo-2025-segunda.dll
+/workspaces/poo-2025-segunda/obj/Debug/net8.0/refint/poo-2025-segunda.dll
+/workspaces/poo-2025-segunda/obj/Debug/net8.0/poo-2025-segunda.pdb
+/workspaces/poo-2025-segunda/obj/Debug/net8.0/poo-2025-segunda.genruntimeconfig.cache
+/workspaces/poo-2025-segunda/obj/Debug/net8.0/ref/poo-2025-segunda.dll
